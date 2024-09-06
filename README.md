@@ -4,7 +4,7 @@ Simple script for helping customize a fresh installation of postmarketos on a Go
 
 # Installation
 
-Type in a terminal `bash -c "$(wget -qLO - https://github.com/*TO_DO*)"`
+Type in a terminal `bash -c "$(wget -qLO - https://github.com/christianbraghette/postmarketos_google_krane/raw/main/install.sh)"`
 
 # Generic PostmarketOS customization
 
